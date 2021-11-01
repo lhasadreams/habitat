@@ -1,5 +1,7 @@
 <img src="https://github.com/habitat-sh/habitat/blob/master/www/source/images/habitat-logo.png" width="200">
 
+[![IaC](https://app.soluble.cloud/api/v1/public/badges/f5f04aaa-8643-4929-9c72-abfa16c7e311.svg)](https://app.soluble.cloud/repos/details/github.com/lhasadreams/habitat)  [![CIS](https://app.soluble.cloud/api/v1/public/badges/fc960a3d-c1af-49d4-a54f-ab6314b467e6.svg)](https://app.soluble.cloud/repos/details/github.com/lhasadreams/habitat)  
+
 [![Build Status](https://api.travis-ci.org/habitat-sh/habitat.svg?branch=master)](https://travis-ci.org/habitat-sh/habitat)
 [![Build status](https://ci.appveyor.com/api/projects/status/ejn8d6bkhiml16al/branch/master?svg=true)](https://ci.appveyor.com/project/chef/habitat/branch/master)
 [![Slack](http://slack.habitat.sh/badge.svg)](http://slack.habitat.sh/)
